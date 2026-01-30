@@ -72,4 +72,4 @@ To improve performance and scalability, the web infrastructure is **split across
 
 ### **Diagram (Example)**
 
-![3-scale_up](images/3-scale_up.png)
+![3-scale_up](./images/Infrastructure_Evolutive.png)

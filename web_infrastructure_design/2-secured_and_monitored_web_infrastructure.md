@@ -103,4 +103,4 @@ A user wants to access `www.foobar.com`. This infrastructure is **secured**, ser
 
 ### **Diagram (Example)**
 
-![2-secured_and_monitored_web_infrastructure](images/2-secured_and_monitored_web_infrastructure.png)
+![2-secured_and_monitored_web_infrastructure](./images/Infrastructure_Sécurisée_&_Monitorée.png)

@@ -71,4 +71,4 @@ A user wants to access the website `www.foobar.com`. The request goes through th
 
 ### **Diagram (Example)**
 
-![0-simple_web_stack](./images/0-simple_web_stack.png)
+![0-simple_web_stack](./images/Serveur_Web_Simple.png)

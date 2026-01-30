@@ -89,4 +89,4 @@ A user wants to access `www.foobar.com`. To improve availability, performance, a
 
 ### **Diagram (Example)**
 
-![1-distributed_web_infrastructure](images/1-distributed_web_infrastructure.png)
+![1-distributed_web_infrastructure](./images/Infrastructure_Distribuée.png)
